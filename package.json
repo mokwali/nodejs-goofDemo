@@ -49,7 +49,7 @@
     "tap": "^15.0.0",
     "typeorm": "^0.2.25",
     "validator": "^13.7.0",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.988.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
